@@ -24,5 +24,6 @@ The Olist E-commerce Analytics Dashboard aims to deliver actionable insights fro
 5. Business Impact and Insights:
 The Olist E-commerce Analytics Dashboard has significant potential for further growth and improvement. The following enhancements can help provide deeper insights, improve decision-making, and create a more intelligent and scalable analytics experience for e-commerce stakeholders.
 
-6. Demo: 
+6. Demo:
+Show what the dashboard looks like: 
 https://github.com/Vaibhavikar/Olist-Store-Analysis/blob/main/Olist%20Store%20Analysis.png
