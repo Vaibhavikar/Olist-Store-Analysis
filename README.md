@@ -21,7 +21,7 @@ This project focuses on analyzing Olist e-commerce data to understand key busine
 By using meaningful and visualization tools, the project aims to transform raw e-commerce data into meaningful insights that can better business decisions.
 The Olist E-commerce Analytics Dashboard aims to deliver actionable insights from e-commerce data, enabling data-driven business decision. The following core objectives guide the development and implementation of this analytics solution.
 
-5. Business Impact and Insights:
+5. Recommendations:
 The Olist E-commerce Analytics Dashboard has significant potential for further growth and improvement. The following enhancements can help provide deeper insights, improve decision-making, and create a more intelligent and scalable analytics experience for e-commerce stakeholders.
 
 6. Demo:
